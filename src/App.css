@@ -1,0 +1,41 @@
+.header{
+    margin-top: 8%;
+    margin-botton: 8%;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+span{
+    display: flex-inline;
+    color: #2196F3 !important;
+    font-size: 1.5rem;
+}
+
+label{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+input{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.second-header{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+    color: #9e9e9e;
+}
+
+.collection-item{
+    display: flex-inline;
+    height: 80px;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.content-span{
+    vertical-align: middle;
+}
